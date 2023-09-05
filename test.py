@@ -1,4 +1,5 @@
 x = 2+3
 y = 2*3
-print(x)
-print(y)
+z=x+y
+print(x,y)
+print(z)
