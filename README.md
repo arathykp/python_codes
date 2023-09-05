@@ -4,3 +4,5 @@ This is a sample repository created to keep some random python scripts.
 Enjoy!!!
 
 Have a good Day!
+
+Added a new line!
